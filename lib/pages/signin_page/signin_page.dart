@@ -32,7 +32,7 @@ class _SignInPageState extends State<SignInPage> {
                   child: Text(
                     appLocalizations!.helloTxt,
                     style: const TextStyle(
-                      fontSize: 60,
+                      fontSize: 70,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
